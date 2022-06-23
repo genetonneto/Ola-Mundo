@@ -1,4 +1,6 @@
 # Ola-Mundo
- Primeiro Repositorio Versionado 
+ primeiro Repositorio Versionado 
 
-Primeiro repositorio criado durante uma aula ao vivo. 
+primeiro repositorio criado durante uma aula ao vivo. 
+
+adcionei essa linha diretamente do site do gitgub
